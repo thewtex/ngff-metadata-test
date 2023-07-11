@@ -1,0 +1,261 @@
+{
+    "multiscales":
+    [
+        {
+            "axes":
+            [
+                {
+                    "name": "t",
+                    "type": "time",
+                    "unit": "second"
+                },
+                {
+                    "name": "c",
+                    "type": "channel"
+                },
+                {
+                    "name": "z",
+                    "type": "space",
+                    "unit": "um"
+                },
+                {
+                    "name": "y",
+                    "type": "space",
+                    "unit": "um"
+                },
+                {
+                    "name": "x",
+                    "type": "space",
+                    "unit": "um"
+                }
+            ],
+            "datasets":
+            [
+                {
+                    "coordinateTransformations":
+                    [
+                        {
+                            "scale":
+                            [
+                                1.0,
+                                1.0,
+                                6.88,
+                                0.91,
+                                0.91
+                            ],
+                            "type": "scale"
+                        },
+                        {
+                            "translation":
+                            [
+                                0.0,
+                                0.0,
+                                0.0,
+                                0.0,
+                                0.0
+                            ],
+                            "type": "translation"
+                        }
+                    ],
+                    "path": "0"
+                },
+                {
+                    "coordinateTransformations":
+                    [
+                        {
+                            "scale":
+                            [
+                                1.0,
+                                1.0,
+                                6.88,
+                                1.82,
+                                1.82
+                            ],
+                            "type": "scale"
+                        },
+                        {
+                            "translation":
+                            [
+                                0.0,
+                                0.0,
+                                0.0,
+                                0.46,
+                                0.46
+                            ],
+                            "type": "translation"
+                        }
+                    ],
+                    "path": "1"
+                },
+                {
+                    "coordinateTransformations":
+                    [
+                        {
+                            "scale":
+                            [
+                                1.0,
+                                1.0,
+                                6.88,
+                                3.65,
+                                3.65
+                            ],
+                            "type": "scale"
+                        },
+                        {
+                            "translation":
+                            [
+                                0.0,
+                                0.0,
+                                0.0,
+                                1.37,
+                                1.37
+                            ],
+                            "type": "translation"
+                        }
+                    ],
+                    "path": "2"
+                },
+                {
+                    "coordinateTransformations":
+                    [
+                        {
+                            "scale":
+                            [
+                                1.0,
+                                1.0,
+                                6.88,
+                                7.3,
+                                7.3
+                            ],
+                            "type": "scale"
+                        },
+                        {
+                            "translation":
+                            [
+                                0.0,
+                                0.0,
+                                0.0,
+                                3.19,
+                                3.19
+                            ],
+                            "type": "translation"
+                        }
+                    ],
+                    "path": "3"
+                },
+                {
+                    "coordinateTransformations":
+                    [
+                        {
+                            "scale":
+                            [
+                                1.0,
+                                1.0,
+                                6.88,
+                                14.6,
+                                14.6
+                            ],
+                            "type": "scale"
+                        },
+                        {
+                            "translation":
+                            [
+                                0.0,
+                                0.0,
+                                0.0,
+                                6.84,
+                                6.84
+                            ],
+                            "type": "translation"
+                        }
+                    ],
+                    "path": "4"
+                },
+                {
+                    "coordinateTransformations":
+                    [
+                        {
+                            "scale":
+                            [
+                                1.0,
+                                1.0,
+                                6.88,
+                                29.19,
+                                29.19
+                            ],
+                            "type": "scale"
+                        },
+                        {
+                            "translation":
+                            [
+                                0.0,
+                                0.0,
+                                0.0,
+                                14.14,
+                                14.14
+                            ],
+                            "type": "translation"
+                        }
+                    ],
+                    "path": "5"
+                },
+                {
+                    "coordinateTransformations":
+                    [
+                        {
+                            "scale":
+                            [
+                                1.0,
+                                1.0,
+                                6.88,
+                                58.38,
+                                58.38
+                            ],
+                            "type": "scale"
+                        },
+                        {
+                            "translation":
+                            [
+                                0.0,
+                                0.0,
+                                0.0,
+                                28.74,
+                                28.74
+                            ],
+                            "type": "translation"
+                        }
+                    ],
+                    "path": "6"
+                },
+                {
+                    "coordinateTransformations":
+                    [
+                        {
+                            "scale":
+                            [
+                                1.0,
+                                1.0,
+                                13.76,
+                                116.77,
+                                116.77
+                            ],
+                            "type": "scale"
+                        },
+                        {
+                            "translation":
+                            [
+                                0.0,
+                                0.0,
+                                3.44,
+                                57.93,
+                                57.93
+                            ],
+                            "type": "translation"
+                        }
+                    ],
+                    "path": "7"
+                }
+            ]
+        }
+    ]
+}
